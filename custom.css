@@ -1,0 +1,32 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+
+ body {
+ 	
+ }
+
+ .red {
+    color: rgb(107, 0, 0);
+  }
+
+ .blue {
+    color: rgb(50, 90, 200);
+  }
+
+  .bold2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 700;
+    color: rgb(50, 90, 200);
+  }
+
+sup2 {
+    font-size: 50%;
+  }

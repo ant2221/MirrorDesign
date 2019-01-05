@@ -1,0 +1,59 @@
+{
+    "anytime" : [
+        "Be the change you want to see in the world\n- Ghandi",
+        "Learning never exhausts the mind.\n- Leonardo da Vinci",
+        "The supreme art of war is to subdue the enemy without fighting.\n- Sun Tzu",
+        "Honesty is the first chapter in the book of wisdom.\n- Thomas Jefferson",
+        "The journey of a thousand miles begins with one step.\n- Lao Tzu",
+        "The best preparation for tomorrow is doing your best today.\n- H. Jackson Brown, Jr.",
+        "I have not failed. I've just found 10,000 ways that won't work.\n- Thomas A. Edison",
+        "Tell me and I forget. Teach me and I remember. Involve me and I learn.\n- Benjamin Franklin",
+        "If opportunity doesn't knock, build a door.\n- Milton Berle",
+        "The secret of getting ahead is getting started.\n- Mark Twain",
+        "Problems are not stop signs, they are guidelines.\n- Robert H. Schuller",
+        "Believe you can and you're halfway there.\n- Theodore Roosevelt",
+        "Nothing is impossible, the word itself says 'I'm possible'!\n- Audrey Hepburn",
+        "Try to be a rainbow in someone's cloud.\n- Maya Angelou",
+        "Be yourself; everyone else is already taken.\n- Oscar Wilde",
+        "It’s been my observation that most people get ahead during the time that others waste\n- Henry Ford",
+        "Success is 99% attitude, 1% aptitude\n- Celestine Ghua",
+        "All our dreams can come true, if we have the courage to peruse them\n- Walt Disney",
+        "Well done is better than well said\n- Benjamin Franklin",
+        "We cannot solve problems with the same thinking used when we created them\n- Albert Einstein",
+        "Have no fear of perfection, you’ll never reach it.\n- Salvador Dali ",
+        "If you can’t explain it simply, you don’t know it well enough\n- Albert Einstein",
+        "Failure is the opportunity to begin again more intelligently\n- Henry Ford",
+        "To improve is to change To be perfect is to change often\n- Winston Churchill",
+        "The way to get started is to quit talking and begin doing.\n- Walt Disney",
+        "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.\n- James Cameron",
+        "Live as if you will die tomorrow.Learn as if you will live forever\n- Mahatma Ghandi",
+        "That which does not kill us makes us stronger.\n– Friedrich Nietzsche",
+        "Success is going from failure to failure without losing your enthusiasm.\n- Winston Churchill",
+        "Dream big and dare to fail.\n- Norman Vaughan",
+        "The difference between ordinary and extraordinary is that little extra.\n- Jimmy Johnson",
+        "Don’t wait. The time will never be just right.\n- Napoleon Hill",
+        "If it isn’t written, write it yourself\n- Unknown",
+        "If the facts change, I change my mind, what do you do sir? \n- Winston Churchill",
+        "Nothing makes the past look better than a bad memory\n- Unknown",
+        "Some succeed because they are destined but most succeed because they are determined.\n- Henry Van Dyke",
+        "Find who does it best. Copy it. Then continuously improve it.\n- Ant Cole",
+        "The best way to predict the future is to invent it. \n- Alan Kay",
+        "It’s not whether you get knocked down, it’s whether you get up.\n- Vince Lombardi",
+        "When you reach the end of your rope, tie a knot in it and hang on.\n- Franklin D. Roosevelt"
+    ],
+    "morning" : [
+        "Good morning, sunshine!",
+        "Who needs coffee when you have your smile?",
+        "Go get 'em, Tiger!"
+    ],
+    "afternoon" : [
+        "Hitting your stride!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!"
+    ],
+    "evening" : [
+        "You made someone smile today, I know it.",
+        "You are making a difference.",
+        "The day was better for your efforts."
+    ]
+}
