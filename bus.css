@@ -1,0 +1,87 @@
+.bus {
+  font-size: 75%;
+  display: inline-block;
+  -o-transform: translate(0, -3px);
+  -moz-transform: translate(0, -3px);
+  -ms-transform: translate(0, -3px); /* IE 9 */
+  -webkit-transform: translate(0, -3px); /* Safari */
+  transform: translate(0, -3px);
+}
+
+ .dest {
+  max-width: 135px;
+  overflow: hidden;
+  padding-right: 10px;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 100;
+}
+
+.routeBus {
+  font-weight: bold;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.routeBus:before {
+	content: '\f207';
+	font-family: 'FontAwesome';
+}
+
+.routeTrain {
+  font-weight: bold;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.routeTrain:before {
+	content: '\f238';
+	font-family: 'FontAwesome';
+}
+
+.routeOther {
+  font-weight: bold;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.routeOther:before {
+	content: '\f0f2';
+	font-family: 'FontAwesome';
+}
+
+.late {
+  color: #ff0000;
+}
+
+.early {
+  color: #55a6e0;
+}
+
+.nonews {
+  color: #ffffff
+}
+
+.busStopName {
+  text-align: left;
+  font-size: 15px;
+  font-family: "Roboto Condensed";
+  font-weight: 400;
+  line-height: 15px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  color: #999;
+}
+
+.Green {
+  color: #136b13;
+}
+
+.Yellow {
+  color: #b1a82d;
+}
+
+.Red {
+  color: #801f1f
+}
